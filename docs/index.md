@@ -8,10 +8,11 @@ Evolve Through Maze is a small implementation where a point as player is suppose
 
 Tutorials is refrenced from [The Coding Train](https://www.youtube.com/c/TheCodingTrain) Channel [video link](https://youtu.be/bGz7mv2vD6g)
 
-<p align='center'>
+![image](https://github.com/indiVar0508/genetic-algo-tutorial/blob/master/docs/evolve_through_maze.gif)
+<!-- <p align='center'>
     <img src='./docs/evolve_through_maze.gif', width=300, height=250>
 </p>
-
+ -->
 # Setup
 
 You can clone project in your local system
